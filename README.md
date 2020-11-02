@@ -1,4 +1,5 @@
 # audio_processing
+In this series of notebooks, I use spectral processing methods to analyze samples of audio data. 
 
 |   | View |
 | - | --- |
